@@ -1,6 +1,8 @@
 # Modulo Docker 
 ## Desafio Go
 
+- Link da imagem no docker hub: https://hub.docker.com/r/rafaelmguimaraes/fullcycle
+
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
